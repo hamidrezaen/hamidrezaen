@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Hamidreza. I'm currently learning about Machine Learning (especially Machine Vision) and Computer Networks. \n
+I'm Hamidreza.<br>
+I'm learning about Machine Learning (especially Machine Vision) and Computer Networks.<br><br>
 Oh, and by the way, I'm a Computer Science student at IUST.
 <!--
 **hamidrezaen/hamidrezaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
